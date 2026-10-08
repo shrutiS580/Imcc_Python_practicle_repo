@@ -5,6 +5,6 @@ if numbers <=10:
 elif numbers == 6 :
     print("you get a reward")
 elif numbers == 2 :
-    print("you get a reward")
+    print("you get a rewards")
 else :
     print("sorry try once again")    
