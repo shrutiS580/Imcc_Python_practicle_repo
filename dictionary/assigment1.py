@@ -4,4 +4,5 @@ for char in name:
     if char in "aeiouAEIOU":
         name = name.replace(char, "z")
 
-print(name) 
+print("youe name replce with : " , name) 
+ 
